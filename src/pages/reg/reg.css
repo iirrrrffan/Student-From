@@ -1,0 +1,15 @@
+.drop{
+    width: 250px;
+    
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+input{
+    background-color: rgb(109, 178, 137);
+    display: grid;
+    padding: 5px;
+    margin: 10px;
+    
+}
